@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsha-fdev
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React-JS
+- 👀 I’m a Skilled Frontend Developer 
+- 🌱 I’m currently honing my skills in backend development
 - 📫 www.linkedin.com/in/harsha-s-shet-1a0450257 --> This is my LinkedIn Profile
 - 😄 Pronouns: Front-Ender 
 
