@@ -7,7 +7,7 @@
 <h3 align="center">Frontend Developer | React Enthusiast | UI/UX Explorer</h3>
 
 🚀 About Me
-🔭 Currently building CTD — A full-stack project blending creativity and code
+🔭 Currently building CTD — A full-stack project blending Agentic AI driving a new gen Education including skill development
 
 🌱 Diving into Cypress, Jenkins, and modern DevOps workflows
 
