@@ -90,16 +90,6 @@ I enjoy debugging backend issues more than fixing CSS. Which probably means my s
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsha-fdev&show_icons=true&theme=tokyonight" height="180px"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-fdev&layout=compact&theme=tokyonight" height="180px"/>
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
